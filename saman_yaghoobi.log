@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.8.18)  7 OCT 2024 17:53
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.8.18)  22 OCT 2024 14:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**template.tex
-(./template.tex
+**saman_yaghoobi.tex
+(./saman_yaghoobi.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -471,8 +471,8 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
 (Font)              scaled to size 10.0pt on input line 171.
 
-(./template.aux)
-\openout1 = `template.aux'.
+(./saman_yaghoobi.aux)
+\openout1 = `saman_yaghoobi.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 171.
 LaTeX Font Info:    ... okay on input line 171.
@@ -502,7 +502,6 @@ LaTeX Font Info:    ... okay on input line 171.
 LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 171.
 LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 1
 71.
-
 (/usr/share/texlive/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
@@ -549,86 +548,82 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
 (Font)              scaled to size 30.0pt on input line 182.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 187.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 186.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 8.0pt on input line 187.
+(Font)              scaled to size 8.0pt on input line 186.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 251.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 209.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 251.
+(Font)              scaled to size 14.4pt on input line 209.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 251.
+(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 209.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
-(Font)              scaled to size 14.4pt on input line 251.
+(Font)              scaled to size 14.4pt on input line 209.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 253.
+(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 217.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
-(Font)              scaled to size 10.0pt on input line 253.
+(Font)              scaled to size 10.0pt on input line 217.
 
-Overfull \hbox (3.92899pt too wide) in paragraph at lines 253--253
+Overfull \hbox (3.92899pt too wide) in paragraph at lines 217--217
 []\T1/SourceSansPro-TLF/bold/n/10 M.Sc 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--257
+Underfull \hbox (badness 10000) in paragraph at lines 219--221
 
  []
 
 
-Overfull \hbox (2.33899pt too wide) in paragraph at lines 260--260
+Overfull \hbox (2.33899pt too wide) in paragraph at lines 224--224
 []\T1/SourceSansPro-TLF/bold/n/10 B.Sc 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 261--263
+Underfull \hbox (badness 10000) in paragraph at lines 225--227
 
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+SourceSansPro-TLF o
-n input line 280.
+n input line 236.
 (/usr/share/texlive/texmf-dist/tex/latex/sourcesanspro/TS1SourceSansPro-TLF.fd
 File: TS1SourceSansPro-TLF.fd 2020/01/19 (autoinst) Font definitions for TS1/So
 urceSansPro-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 280.
+(Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 236.
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 280.
+(Font)              scaled to size 10.0pt on input line 236.
 Missing character: There is no – ("2013) in font SourceSansPro-Regular-tlf-t1!
-
-Overfull \hbox (1.08409pt too wide) in paragraph at lines 298--298
- \T1/SourceSansPro-TLF/regular/n/10 git/samanyaghoobi/telebot-
- []
-
+Missing character: There is no – ("2013) in font SourceSansPro-Regular-tlf-t1!
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 352.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 319.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 352.
+(Font)              scaled to size 10.0pt on input line 319.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 352.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 319.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 9.0pt on input line 352.
+(Font)              scaled to size 9.0pt on input line 319.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 352.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 319.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 9.0pt on input line 352.
+(Font)              scaled to size 9.0pt on input line 319.
 [1
 
-] 
+] [2] 
 enddocument/afterlastpage: lastpage setting LastPage.
-(./template.aux)
+(./saman_yaghoobi.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14354 strings out of 474878
- 224899 string characters out of 5762516
- 1929627 words of memory out of 5000000
- 36197 multiletter control sequences out of 15000+600000
+ 14355 strings out of 474878
+ 224967 string characters out of 5762516
+ 1935627 words of memory out of 5000000
+ 36199 multiletter control sequences out of 15000+600000
  643183 words of font info for 54 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 72i,10n,79p,301b,519s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,10n,79p,315b,519s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on template.pdf (1 page).
+Output written on saman_yaghoobi.pdf (2 pages).
