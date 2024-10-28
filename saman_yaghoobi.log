@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.8.18)  22 OCT 2024 14:53
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.8.18)  28 OCT 2024 10:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -543,73 +543,96 @@ LaTeX Font Info:    ... okay on input line 171.
 
 Package hyperref Info: Link coloring ON on input line 171.
 \ANDbox=\box65
+(./heder.tex
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 182.
+(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 3.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
-(Font)              scaled to size 30.0pt on input line 182.
+(Font)              scaled to size 30.0pt on input line 3.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 186.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 7.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 8.0pt on input line 186.
+(Font)              scaled to size 8.0pt on input line 7.
+) (./summery.tex
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 209.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 1.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 209.
+(Font)              scaled to size 14.4pt on input line 1.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 209.
+(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 1.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
-(Font)              scaled to size 14.4pt on input line 209.
+(Font)              scaled to size 14.4pt on input line 1.
+) (./education.tex
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 217.
+(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 3.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
-(Font)              scaled to size 10.0pt on input line 217.
+(Font)              scaled to size 10.0pt on input line 3.
 
-Overfull \hbox (3.92899pt too wide) in paragraph at lines 217--217
+Overfull \hbox (3.92899pt too wide) in paragraph at lines 3--3
 []\T1/SourceSansPro-TLF/bold/n/10 M.Sc 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 219--221
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
 
  []
 
 
-Overfull \hbox (2.33899pt too wide) in paragraph at lines 224--224
+Overfull \hbox (2.33899pt too wide) in paragraph at lines 10--10
 []\T1/SourceSansPro-TLF/bold/n/10 B.Sc 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 225--227
+Underfull \hbox (badness 10000) in paragraph at lines 11--13
 
  []
 
+) (./experience.tex
 LaTeX Font Info:    Trying to load font information for TS1+SourceSansPro-TLF o
-n input line 236.
+n input line 6.
+
 (/usr/share/texlive/texmf-dist/tex/latex/sourcesanspro/TS1SourceSansPro-TLF.fd
 File: TS1SourceSansPro-TLF.fd 2020/01/19 (autoinst) Font definitions for TS1/So
 urceSansPro-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 236.
+(Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 6.
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 236.
+(Font)              scaled to size 10.0pt on input line 6.
 Missing character: There is no – ("2013) in font SourceSansPro-Regular-tlf-t1!
 Missing character: There is no – ("2013) in font SourceSansPro-Regular-tlf-t1!
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 319.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 319.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 319.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 9.0pt on input line 319.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 319.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 9.0pt on input line 319.
-[1
+) (./skills.tex
+Overfull \hbox (1.33112pt too wide) in paragraph at lines 48--49
+[]\T1/SourceSansPro-TLF/regular/n/10 Health, Safety, and En-vi-ron-ment (HSE) 
+ []
 
-] [2] 
+
+Overfull \hbox (2.73721pt too wide) in paragraph at lines 63--64
+[]\T1/SourceSansPro-TLF/regular/n/10 Skilled in con-fig-ur-ing and work-ing wit
+h
+ []
+
+) (./basic-knowledge.tex
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 1.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
+(Font)              scaled to size 10.0pt on input line 1.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 1.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
+(Font)              scaled to size 9.0pt on input line 1.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 1.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
+(Font)              scaled to size 9.0pt on input line 1.
+ [1
+
+]
+Overfull \hbox (0.69446pt too wide) in paragraph at lines 20--21
+[]\T1/SourceSansPro-TLF/regular/n/10 Knowledge of WAF tech-nolo-gies (Web Ap-pl
+i-ca-tion Fire-
+ []
+
+) (./projects.tex) [2] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./saman_yaghoobi.aux)
  ***********
@@ -618,10 +641,10 @@ L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14355 strings out of 474878
- 224967 string characters out of 5762516
- 1935627 words of memory out of 5000000
- 36199 multiletter control sequences out of 15000+600000
+ 14398 strings out of 474878
+ 225661 string characters out of 5762516
+ 1941627 words of memory out of 5000000
+ 36221 multiletter control sequences out of 15000+600000
  643183 words of font info for 54 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  72i,10n,79p,315b,519s stack positions out of 10000i,1000n,20000p,200000b,200000s
